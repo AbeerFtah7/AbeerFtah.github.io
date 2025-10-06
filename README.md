@@ -34,4 +34,4 @@ Databases: SQL Server
 
 Practices: REST APIs
 ## Contact
-You can reach me at [LinkedIn](https://www.linkedin.com/in/abeer-abdelfttah-645917167/) or [GitHub](https://github.com/AbeerFtah7).
+You can reach me at [LinkedIn](https://www.linkedin.com/in/abeer-abdelfttah-645917167/).
