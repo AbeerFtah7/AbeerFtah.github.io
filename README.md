@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">- 💼 [LinkedIn](https://www.linkedin.com/in/abeer-abdelfttah-645917167/)   </h5>
+<h5 align="left">- 💼 [LinkedIn](https://www.linkedin.com/in/abeer-abdelfttah-645917167/)    </h5>
 
 ###
 
