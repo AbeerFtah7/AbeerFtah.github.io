@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">- 💼 [LinkedIn](https://www.linkedin.com/in/abeer-abdelfttah-645917167/)  <br>- 📝 [Portfolio](https://github.com/AbeerFtah7/AbeerFtah.github.io)  <br>- 📧 [Email Me](mailto:abeerftah@gmail.com)</h5>
+<h5 align="left">- 💼 [LinkedIn](https://www.linkedin.com/in/abeer-abdelfttah-645917167/)   <br>- 📧 [Email Me](mailto:abeerftah@gmail.com)</h5>
 
 ###
 
